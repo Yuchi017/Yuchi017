@@ -1,5 +1,7 @@
 ### Hi, I'm Yu-Chi Lin 👋
 
+🎓 UCLA · NYCU
+
 I work on large language models: how they make decisions, how to evaluate them, and how to serve them faster.
 
 **Research interests:** LLM decision making & evaluation · efficient LLM inference (speculative decoding) · multimodal in-context learning
